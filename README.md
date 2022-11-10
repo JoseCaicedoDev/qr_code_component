@@ -1,7 +1,6 @@
 # Card Qr componente
 
-![mobile-design](https://user-images.githubusercontent.com/26255765/191057821-cd9b37ca-1925-4ae9-85ba-2bd9408fcd31.jpg)
-
+![qr](https://user-images.githubusercontent.com/26255765/201200747-0a706cc9-cdc7-466b-96e8-a4e4cf3b100c.png)
 
 ### Proyecto
 -------------
