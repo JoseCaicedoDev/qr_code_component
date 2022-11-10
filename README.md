@@ -1,6 +1,6 @@
 # Card Qr componente
 
-![qr](https://user-images.githubusercontent.com/26255765/201200747-0a706cc9-cdc7-466b-96e8-a4e4cf3b100c.png)
+![qr](https://user-images.githubusercontent.com/26255765/201201022-b8d62a7d-c478-47fc-9c6e-03ff6a2190b4.png)
 
 ### Proyecto
 -------------
